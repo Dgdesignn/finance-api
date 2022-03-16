@@ -105,7 +105,7 @@ app.post('/withdraw',verifyIfExisteAccountCPF,(request, response)=>{
 
 })
 
-
+//search statement by date
 app.get('/statement/date',verifyIfExisteAccountCPF,(request, response)=>{
     const {customer} = request;
     const {date} = request.query;
@@ -117,6 +117,7 @@ app.get('/statement/date',verifyIfExisteAccountCPF,(request, response)=>{
     return response.json(statement)
 })
 
+//update the user count
 app.put('/account',verifyIfExisteAccountCPF,(request, response)=>{
     const {customer} = request;
     const {name} =request.body;

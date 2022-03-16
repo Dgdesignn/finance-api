@@ -1,5 +1,7 @@
 # FinAPI  - Financeira
 
+> É uma APi que contem rotas com as principais funções bancárias. Utilizei um array para fazer o armazenamento dos dados não de forma permanente, utilizando também os conceitos básico de uma API e dos  **middlewares**. 
+
 ### Requisitos
 - [x] Deve ser possível criar uma conta
 - [x] Deve ser possível buscar o extrato bancário de cliente
