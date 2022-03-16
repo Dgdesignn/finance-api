@@ -7,7 +7,7 @@
 - [x] Deve ser possível fazer o levantamento
 - [x] Deve ser possível buscar o extrato bancário do cliente por data
 - [x] Deve ser possível actualizar dados da conta do cliente
-- [] Dever ser possível deletar uma conta
+- [x] Dever ser possível deletar uma conta
 
 ## Regras de negócio
 
