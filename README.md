@@ -19,3 +19,5 @@
 - [x] Não deve ser possível fazer lrvantamento de uma conta não existente
 - [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível fazer levantamento quando o saldo for insuficiente
+
+#### Algumas funcionalidades 
